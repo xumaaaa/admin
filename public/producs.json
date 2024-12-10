@@ -1,0 +1,122 @@
+[
+   {
+       "id": 1,
+       "name": "LEGO Star Wars Millennium Falcon",
+       "price": 169.99,
+       "pieces": 1351,
+       "age_recommendation": "9+",
+       "category": "Star Wars"
+   },
+   {
+       "id": 2,
+       "name": "LEGO Harry Potter Hogwarts Castle",
+       "price": 399.99,
+       "pieces": 6020,
+       "age_recommendation": "16+",
+       "category": "Harry Potter"
+   },
+   {
+       "id": 3,
+       "name": "LEGO Technic Bugatti Chiron",
+       "price": 349.99,
+       "pieces": 3599,
+       "age_recommendation": "14+",
+       "category": "Technic"
+   },
+   {
+       "id": 4,
+       "name": "LEGO Creator Expert Roller Coaster",
+       "price": 379.99,
+       "pieces": 4124,
+       "age_recommendation": "16+",
+       "category": "Creator Expert"
+   },
+   {
+       "id": 5,
+       "name": "LEGO Friends Heartlake City Resort",
+       "price": 79.99,
+       "pieces": 1010,
+       "age_recommendation": "8+",
+       "category": "Friends"
+   },
+   {
+       "id": 6,
+       "name": "LEGO City Police Station",
+       "price": 99.99,
+       "pieces": 743,
+       "age_recommendation": "6+",
+       "category": "City"
+   },
+   {
+       "id": 7,
+       "name": "LEGO Marvel Super Heroes Avengers Tower",
+       "price": 89.99,
+       "pieces": 685,
+       "age_recommendation": "8+",
+       "category": "Marvel"
+   },
+   {
+       "id": 8,
+       "name": "LEGO Disney Castle",
+       "price": 349.99,
+       "pieces": 4080,
+       "age_recommendation": "16+",
+       "category": "Disney"
+   },
+   {
+       "id": 9,
+       "name": "LEGO Ninjago Destiny's Bounty",
+       "price": 129.99,
+       "pieces": 2464,
+       "age_recommendation": "9+",
+       "category": "Ninjago"
+   },
+   {
+       "id": 10,
+       "name": "LEGO Architecture Eiffel Tower",
+       "price": 49.99,
+       "pieces": 321,
+       "age_recommendation": "12+",
+       "category": "Architecture"
+   },
+   {
+       "id": 11,
+       "name": "LEGO Creator 3-in-1 Pirate Ship",
+       "price": 99.99,
+       "pieces": 1264,
+       "age_recommendation": "9+",
+       "category": "Creator"
+   },
+   {
+       "id": 12,
+       "name": "LEGO Technic Liebherr R 9800 Excavator",
+       "price": 449.99,
+       "pieces": 4108,
+       "age_recommendation": "12+",
+       "category": "Technic"
+   },
+   {
+       "id": 13,
+       "name": "LEGO Super Mario Adventures with Mario Starter Course",
+       "price": 59.99,
+       "pieces": 231,
+       "age_recommendation": "6+",
+       "category": "Super Mario"
+   },
+   {
+       "id": 14,
+       "name": "LEGO Ideas NASA Apollo Saturn V",
+       "price": 119.99,
+       "pieces": 1969,
+       "age_recommendation": "14+",
+       "category": "Ideas"
+   },
+   {
+       "id": 15,
+       "name": "LEGO Minecraft The Crafting Box",
+       "price": 59.99,
+       "pieces": 564,
+       "age_recommendation": "8+",
+       "category": "Minecraft"
+   }
+]
